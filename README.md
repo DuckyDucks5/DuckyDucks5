@@ -1,3 +1,3 @@
 # Halo! I'm Auryn
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[DuckyDucks5]&show_icons=true)
+![Auryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyDucks5&show_icons=true&bg_color=00000000)
